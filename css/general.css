@@ -55,7 +55,7 @@ article {
 h1 {
     font-size: 3.5rem;
     margin: 1.5rem 0;
-    line-height: 4.5rem
+    line-height: 4.5rem;
 }
 
 h1 + p {
@@ -71,7 +71,10 @@ p {
 
 h2 {
     font-size:1.25rem;
-    font-weight:italic;
+    font-weight:bold;
+}
+h3 {
+    font-size:1.15rem;
 }
 figure {
     margin:0 auto 1rem;
@@ -90,8 +93,10 @@ footer {
 footer p {
     font-size: .75rem;
     margin:.5rem 5% 5rem;
-    color:white;
+    color:black;
+    font-weight:150
 }
 footer a {
-    color:white;
+    color:black;
+    font-weight:500
 }
