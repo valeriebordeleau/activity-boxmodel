@@ -62,7 +62,7 @@ h1 + p {
     font-size: 1.1rem;
     font-weight:bold;
 }
-hr { border: dotted 1px #F60   
+hr { border: solid 2px pink    
 }
 p {
     line-height:1.5rem;
